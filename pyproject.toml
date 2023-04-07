@@ -8,6 +8,7 @@ packages = [{include = "pyarena", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+watchdog = "^3.0.0"
 
 
 [build-system]
